@@ -35,6 +35,12 @@ O projeto foi desenvolvido seguindo os princípios do HATEOAS (Nível 3 de Matur
 - **Oracle SQL Developer** - Gerenciamento do banco de dados
 - **Git/GitHub** - Controle de versão
 
+### SPRING INITIALIZR
+<img width="1027" height="880" alt="SpringInitializr" src="https://github.com/user-attachments/assets/2e4ad4b6-69c8-4f8f-9eda-909b746fd4a1" />
+
+### Deploy realizado no RENDER
+<img width="944" height="898" alt="deploy_live" src="https://github.com/user-attachments/assets/cefd4597-fe61-4ed7-96b4-7b9c2a066a27" />
+
 ---
 
 ## Configuração e Instalação
@@ -87,4 +93,21 @@ A API segue o padrão RESTful e está documentada com HATEOAS. Todos os endpoint
 
 # Testes com Insomnia/Postman
 
+1 - PUT
+<img width="680" height="819" alt="PUT1" src="https://github.com/user-attachments/assets/7f2a4a3c-11c4-43e0-b396-9b42d152bf54" />
 
+2 - POST
+<img width="664" height="951" alt="POST1" src="https://github.com/user-attachments/assets/d3126211-f0b0-46fd-aa02-a734773a0e87" />
+
+
+3 - DELETE
+<img width="673" height="342" alt="DELETE1" src="https://github.com/user-attachments/assets/39f5a7d8-9801-4fa8-87b9-58321ceb3dd5" />
+<img width="673" height="455" alt="DELETE2_ConfirmandoDelete" src="https://github.com/user-attachments/assets/7f34647a-430e-4f41-a8ab-27da7a32d87c" />
+
+
+4 - GET 
+<img width="678" height="920" alt="GET1" src="https://github.com/user-attachments/assets/ddc7bb0e-b39e-45fd-a88d-500177bb5362" />
+<img width="678" height="657" alt="GET2_ID" src="https://github.com/user-attachments/assets/744b7b84-b694-4d28-b4a5-0dbb470951de" />
+
+5 - PATCH
+<img width="678" height="818" alt="PATCH1" src="https://github.com/user-attachments/assets/0e1a1dd7-465c-43ea-84e0-43751f673221" />
