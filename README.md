@@ -93,8 +93,8 @@ A API segue o padrão RESTful e está documentada com HATEOAS. Todos os endpoint
 
 # Testes com Insomnia/Postman
 
-### GET `/mercado/{id}`
-| Requisição | Resposta |
+### GET 
+| `/mercado/` | `/mercado/{id}` |
 |------------|----------|
 | <img width="400" src="https://github.com/user-attachments/assets/ddc7bb0e-b39e-45fd-a88d-500177bb5362" /> | <img width="400" src="https://github.com/user-attachments/assets/744b7b84-b694-4d28-b4a5-0dbb470951de" /> |
 
